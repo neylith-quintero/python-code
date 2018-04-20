@@ -4,6 +4,6 @@ n2 = int(input("Ingrese segundo numero: "))
 
 n3 = n2 -  n1
 
-print("La suma es")
+print("La resta es")
 
 print(n3)
